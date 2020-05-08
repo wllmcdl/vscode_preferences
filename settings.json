@@ -1,0 +1,48 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+
+    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontSize": 13,
+
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.filePath": "off",
+    
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.renderWhitespace": "selection",
+    "editor.renderControlCharacters": false,
+    "editor.smoothScrolling": true,
+    "editor.lineNumbers": "off",
+    "editor.fontFamily": "Fira Code",
+    "editor.lineHeight": 25,
+    "editor.cursorBlinking": "solid",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.enabled": false,
+
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.editor.showTabs": false,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+
+    "zenMode.centerLayout":true,
+    "zenMode.fullScreen":false,
+    "zenMode.hideLineNumbers":false,
+    "zenMode.hideTabs":false,
+
+}
